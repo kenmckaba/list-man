@@ -11,8 +11,12 @@
     "generate-pwa-assets": "pwa-assets-generator --preset minimal public/logo.svg"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "framer-motion": "^11.2.10",
+    "react": "^19.0.0-rc-6d3110b4d9-20240531",
+    "react-dom": "^19.0.0-rc-6d3110b4d9-20240531"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
